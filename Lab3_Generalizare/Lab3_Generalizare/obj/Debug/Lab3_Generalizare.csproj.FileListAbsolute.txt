@@ -1,0 +1,10 @@
+F:\FACULTATE\Anul 2\Semestrul 2\SGBD\Lab3_Generalizare\Lab3_Generalizare\bin\Debug\Lab3_Generalizare.exe.config
+F:\FACULTATE\Anul 2\Semestrul 2\SGBD\Lab3_Generalizare\Lab3_Generalizare\bin\Debug\Lab3_Generalizare.exe
+F:\FACULTATE\Anul 2\Semestrul 2\SGBD\Lab3_Generalizare\Lab3_Generalizare\bin\Debug\Lab3_Generalizare.pdb
+F:\FACULTATE\Anul 2\Semestrul 2\SGBD\Lab3_Generalizare\Lab3_Generalizare\obj\Debug\Lab3_Generalizare.csprojAssemblyReference.cache
+F:\FACULTATE\Anul 2\Semestrul 2\SGBD\Lab3_Generalizare\Lab3_Generalizare\obj\Debug\Lab3_Generalizare.Form1.resources
+F:\FACULTATE\Anul 2\Semestrul 2\SGBD\Lab3_Generalizare\Lab3_Generalizare\obj\Debug\Lab3_Generalizare.Properties.Resources.resources
+F:\FACULTATE\Anul 2\Semestrul 2\SGBD\Lab3_Generalizare\Lab3_Generalizare\obj\Debug\Lab3_Generalizare.csproj.GenerateResource.cache
+F:\FACULTATE\Anul 2\Semestrul 2\SGBD\Lab3_Generalizare\Lab3_Generalizare\obj\Debug\Lab3_Generalizare.csproj.CoreCompileInputs.cache
+F:\FACULTATE\Anul 2\Semestrul 2\SGBD\Lab3_Generalizare\Lab3_Generalizare\obj\Debug\Lab3_Generalizare.exe
+F:\FACULTATE\Anul 2\Semestrul 2\SGBD\Lab3_Generalizare\Lab3_Generalizare\obj\Debug\Lab3_Generalizare.pdb
